@@ -1,1 +1,1 @@
-java Greeter
+java -cp bin Main

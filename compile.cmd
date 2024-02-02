@@ -1,1 +1,1 @@
-javac Greeter.java
+javac -d bin src/is/hi/asm34/hbv202g/ass3/backend/*.java src/is/hi/asm34/hbv202g/ass3/frontend/*.java src/*.java
